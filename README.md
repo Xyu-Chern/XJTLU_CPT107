@@ -1,4 +1,4 @@
-# XJTLU_CPT101
+# XJTLU_CPT107
 ----
 ## Breif Introduction
 - This is a repository about [XJTLU](https://www.xjtlu.edu.cn/zh) lesson : CPT107 FALL 23-24 ( Introdution to Discrete Mathematics )
